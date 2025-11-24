@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/FileIcons">
+        <file>source/mp3.png</file>
+        <file>source/mp4.png</file>
+        <file>source/png.png</file>
+        <file>source/TXT.png</file>
+        <file>source/word.png</file>
+        <file>source/zip.png</file>
+        <file>source/UnNamedFile.png</file>
+        <file>source/Dir.png</file>
+        <file>source/Jpg.png</file>
+        <file>source/rar.png</file>
+        <file>source/PPT.png</file>
+        <file>source/stop.png</file>
+        <file>source/resume.png</file>
+        <file>source/background.png</file>
+        <file>source/return.png</file>
+        <file>source/upload.png</file>
+        <file>source/refresh.png</file>
+        <file>source/unable_return.png</file>
+        <file>source/load_tool.png</file>
+        <file>source/upload_tool.png</file>
+        <file>source/delete_tool.png</file>
+        <file>source/share_tool.png</file>
+        <file>source/relogin_tool.png</file>
+        <file>source/EXCEL.png</file>
+        <file>source/PDF.png</file>
+        <file>source/MD.png</file>
+        <file>source/team.png</file>
+        <file>source/MyData.png</file>
+        <file>source/default.jpg</file>
+        <file>source/Window_Icon.jpg</file>
+        <file>source/buffering.gif</file>
+    </qresource>
+</RCC>
